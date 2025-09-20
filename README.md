@@ -1,4 +1,4 @@
-This repository contains datasets for two related NLP tasks: **Complex Word Identification (CWI)** and **Lexical Simplification (LS)** for Persian.
+This repository contains datasets for two NLP tasks: **Complex Word Identification (CWI)** and **Lexical Simplification (LS)** for Persian.
 
 Here's a breakdown of the files:
 
