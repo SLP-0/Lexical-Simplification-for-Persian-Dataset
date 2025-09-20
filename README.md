@@ -23,10 +23,10 @@ This is the gold standard dataset for Lexical Simplification evaluation using SA
 
 ### sample_0_complexity_feature.csv & sample_1_complexity_feature.csv
 
-These two files contain 6k words each and selected complexity features. `sample_0` contains simple words, and `sample_1` contains complex words. These are feature sets for training a rule based CWI model.
+These two files contain 6k words each and selected complexity features. `sample_0` contains non-complex words, and `sample_1` contains complex words. These are feature sets for training a rule based CWI model.
 
 * **target_word**: The word.
-* **freq**: The frequency of the word in a corpus (Miras and Bijankhan cprpora).
+* **freq**: The frequency of the word in a corpus (Miras and Bijankhan corpora).
 * **LenChar**: The length of the word in characters.
 * **VowConRatio**: The ratio of vowels to consonants in the word.
 * **label**: The complexity label (0 for simple, 1 for complex).
